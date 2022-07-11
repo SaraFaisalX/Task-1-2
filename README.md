@@ -39,7 +39,7 @@ After those steps I had a proplem when I pressed start button an error message a
 
 
 8- To be sure that ROS is installed 
-Write roscore on the terminal
+Write `roscore` on the terminal
 
 
 
